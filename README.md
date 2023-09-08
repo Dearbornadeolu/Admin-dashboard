@@ -9,7 +9,7 @@ To use this Admin Login Page component in your Vite React project, follow these 
 1. Clone or download the repository containing this component:
 
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com//Dearbornadeolu/Admin-dashboard.git
    ```
 
 2. Navigate to the directory where the component is located.
