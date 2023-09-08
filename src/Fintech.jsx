@@ -7,7 +7,7 @@ const Fintech = () => {
   return (
     <div>
         <TopNav/>
-        <div className='md:flex md:justify-start gap-3 pl-2 pr-2'>
+        <div className='md:flex md:justify-start gap-3  pr-2'>
             <SideNav/>
             <MainPage/>
         </div>

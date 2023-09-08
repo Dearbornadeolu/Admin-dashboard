@@ -1,18 +1,18 @@
 import React from 'react'
 import TopNav from './TopNav'
 import SideNav from './SideNav'
-import AllTrans from './transComp/AllTrans'
+import TypesTran from './transComp/TypesTran'
 
-const Totaltransaction = () => {
+const Transtrey = () => {
   return (
     <div>
         <TopNav/>
         <div className='md:flex md:justify-start gap-3  pr-2'>
             <SideNav/>
-            <AllTrans/>
+            <TypesTran/>
         </div>
     </div>
   )
 }
 
-export default Totaltransaction
+export default Transtrey

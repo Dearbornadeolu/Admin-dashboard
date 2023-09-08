@@ -1,18 +1,18 @@
 import React from 'react'
 import TopNav from './TopNav'
 import SideNav from './SideNav'
-import AllTrans from './transComp/AllTrans'
+import GetUsers from './userscomp/GetUsers'
 
-const Totaltransaction = () => {
+const Account = () => {
   return (
     <div>
         <TopNav/>
         <div className='md:flex md:justify-start gap-3  pr-2'>
             <SideNav/>
-            <AllTrans/>
+            <GetUsers/>
         </div>
     </div>
   )
 }
 
-export default Totaltransaction
+export default Account
