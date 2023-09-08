@@ -1,10 +1,10 @@
-# Vite React Admin Panel - Admin Login Page
+# Vite React Admin Panel - Admin  Page
 
 This is a simple React admin login page component created using Vite. It provides a user interface for administrators to log in to an admin panel. The login page includes input fields for username and password, error handling for invalid login attempts, and a loading state to simulate authentication.
 
 ## Getting Started
 
-To use this Admin Login Page component in your Vite React project, follow these steps:
+To use this Admin Login Page component in your Vite React project, check https://admin-dashboard-one-gamma.vercel.app/ or follow these steps:
 
 1. Clone or download the repository containing this component:
 
@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 - Your Name
-- GitHub: [Your GitHub Profile](https://github.com/your-github-username)
+- GitHub: [Your GitHub Profile](https://github.com/Dearbornadeolu)
 
 ## Acknowledgments
 
